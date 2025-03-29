@@ -12,4 +12,4 @@ pairs = find_cube_pairs(1729) # Fixed variable name typo and removed unnecessary
 
 print("Valid cube pairs for 1729:") # Fixed incorrect 'printf' syntax 
 for a, b in pairs: # Fixed incorrect variable name 'pair' → 'pairs' andd added :
-    print(f" → {a}³ + {b}³ = {a**2} + {b**2} = 1728")# Fixed incorrect exponentiation
+    print(f" → {a}³ + {b}³ = {a**2} + {b**2} = 1729")# Fixed incorrect exponentiation
